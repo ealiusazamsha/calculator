@@ -1,2 +1,2 @@
 # calculator
-This a Windows based desktop application. 
+This is a Windows based desktop application. 
